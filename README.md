@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-<h1 align="left">It's OZ</h1>
-
-###
-
-<p align="left">👋 Hello, I’m Oz<br><br>💻 Web Developer | 📱 Mobile Developer (in training)<br><br>🌟 Skills & Focus<br><br>Web development (Front-end & JavaScript)<br><br>Studying mobile application development (Android & iOS)<br><br>Building interactive 3D experiences (Three.js)<br><br>🗣️ Languages<br><br>English</p>
-
-###
-
-<h4 align="left">programming languages :</h4>
-=======
-<h2 align="center">BLACK A</h2>
+<h1 align="center">BLACK A</h1>
 
 ###
 
@@ -52,13 +41,11 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
 </div>
->>>>>>> df4f0f4c46ac43d35728cfee1df7e59058a67a56
+
 
 ###
 
 <br clear="both">
-
-<<<<<<< HEAD
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
   <img width="12" />
@@ -101,8 +88,3 @@
 
 <div align="center">
 </div>
-=======
-<img src="https://raw.githubusercontent.com/black-abdo/black-abdo/output/snake.svg" alt="Snake animation" />
->>>>>>> df4f0f4c46ac43d35728cfee1df7e59058a67a56
-
-###
