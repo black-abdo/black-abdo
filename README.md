@@ -1,4 +1,4 @@
-<h2 align="center">BLACK A</h2>
+<h1 align="center">BLACK A</h1>
 
 ###
 
@@ -29,9 +29,7 @@
 <div align="left">
 </div>
 
-###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hpOHI0czlqemR3OXZyODJ1a3BtcGkzdHk0aWs2N2plbHZhc3RvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
 
 ###
 
