@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">Web Developer & Designer<br> who enjoys building modern, interactive, and creative web applications. I focus on both frontend visuals and backend logic, turning ideas into real, usable products.<br><br>Skills & Technologies<br><br> Web Development<br><br>HTML, CSS, JavaScript<br><br>Node.js<br><br>Building responsive and interactive websites<br><br> 3D & Creative Development<br><br>Three.js<br><br>Creating 3D experiences and animations for the web<br><br>Python<br><br>Automation scripts<br><br>Backend logic<br><br>General-purpose programming<br><br>App Creation<br><br>Designing and developing applications<br><br>From idea → design → development <br><br>Languages : English</p>
+<p align="left">Web Developer & Designer<br> who enjoys building modern, interactive, and creative web applications. I focus on both frontend visuals and backend logic.<br>
+<br>Languages : English</p>
 
 ###
 
