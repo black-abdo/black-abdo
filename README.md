@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Web Developer & Designer<br> who enjoys building modern, interactive, and creative web applications. I focus on both frontend visuals and backend logic.<br>
-<br>Languages : English</p>
+<br>Languages : an English User</p>
 
 ###
 
