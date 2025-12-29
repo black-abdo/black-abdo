@@ -1,7 +1,3 @@
-<h1 align="center">IT'S BLACK ABDO</h1>
-
-###
-
 <h1 align="left">You can call me IGRIS</h1>
 
 ###
