@@ -1,8 +1,8 @@
-<h1 align="center">BLACK A</h1>
+<h1 align="center">I'm ABDO</h1>
 
 ###
 
-<p align="left">Hello, I’m BLACK A<br><br>Web Developer & Designer<br>I create modern, engaging, and user-focused web experiences.<br><br>Skills & Focus<br><br>- Designing clean and intuitive user interfaces<br><br>- Building interactive 3D web experiences with Three.js<br><br>- Developing responsive web and app interfaces<br><br>- Creating smooth animations and dynamic interactions<br><br><br>Languages :<br><br>English</p>
+<p align="left">You can call me IGRIS <br><br>Web Developer & Designer<br>I create modern, engaging, and user-focused web experiences.<br><br>Skills & Focus<br><br>- Designing clean and intuitive user interfaces<br><br>- Building interactive 3D web experiences with Three.js<br><br>- Developing responsive web and app interfaces<br><br>- Creating smooth animations and dynamic interactions<br><br><br>Languages :<br><br>English</p>
 
 ###
 
